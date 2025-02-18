@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: "your name here"
+author: "Xavier Cruz Sicairos"
 date: "Spring 2025"
 output: html_document
 ---
